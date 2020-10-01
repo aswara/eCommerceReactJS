@@ -8,14 +8,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Required
 - Internet to access this website
 
-## Admin Features
-- Admin can add, edit, and delete product
-- Admin can add, edit, and delete category
-- Admin can add, edit, and delete subcategory
-- Admin can view list customers
-- Admin can view list products
-- Admin can view list and confirm new order
-- Admin can view list order in shipping
+## Admin Features (Fitur - Fitur Admin)
+- Admin can add, edit, and delete product (Admin bisa menambahahkan,Mengedit dan Menghapus Produk)
+- Admin can add, edit, and delete category (Admin bisa menambahahkan,Mengedit dan Menghapus Kategori)
+- Admin can add, edit, and delete subcategory (Admin bisa menambahahkan,Mengedit dan Menghapus Sub Kategori)
+- Admin can view list customers (Admin dapat melihat semua Kustomer)
+- Admin can view list products (Admin dapat melihat semua Produk)
+- Admin can view list and confirm new order (Admin dapat melihat list dan meneriman konfirmasi order)
+- Admin can view list order in shipping (Admin dapat melihat semua order di dalam pembelian)
 
 ## Featured Tech
 - PWA - Progressive Web Application
